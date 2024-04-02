@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @artigasfacundo
+- 👀 I’m interested in new technologies and their application  
+- 🌱 I’m currently learning an IT course for AWS.
+- 📫 How to reach me: Via mail: facundoartigas876@gmail.com
